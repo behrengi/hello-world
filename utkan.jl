@@ -9,5 +9,5 @@ function fib(x)
 end
 
 for i in 1:10
-    println(i, fib(i))
+    println(i, ':', fib(i))
 end
